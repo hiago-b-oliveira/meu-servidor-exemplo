@@ -1,0 +1,22 @@
+{
+  "name": "meu-servidor-exemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiago-b-oliveira/meu-servidor-exemplo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiago-b-oliveira/meu-servidor-exemplo/issues"
+  },
+  "homepage": "https://github.com/hiago-b-oliveira/meu-servidor-exemplo#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
